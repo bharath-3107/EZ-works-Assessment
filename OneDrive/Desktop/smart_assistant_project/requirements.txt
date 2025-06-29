@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+gradio
+openai
+PyMuPDF
+faiss-cpu
+langchain
+pydantic
+python-multipart
+tqdm
+aiofiles
